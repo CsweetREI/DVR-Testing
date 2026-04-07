@@ -1,0 +1,10 @@
+{"ts": "2026-03-31T19:54:24.726713", "channel": 1, "event": "loss_start"}
+{"ts": "2026-03-31T19:54:30.831047", "channel": 7, "event": "loss_start"}
+{"ts": "2026-03-31T19:54:30.831231", "channel": 1, "event": "loss_cleared", "duration": 6.11}
+{"ts": "2026-03-31T19:54:38.800899", "channel": 2, "event": "loss_start"}
+{"ts": "2026-03-31T19:54:38.801054", "channel": 7, "event": "loss_cleared", "duration": 7.97}
+{"ts": "2026-03-31T19:54:56.902342", "channel": 8, "event": "loss_start"}
+{"ts": "2026-03-31T19:54:56.902456", "channel": 2, "event": "loss_cleared", "duration": 18.1}
+{"ts": "2026-03-31T19:55:01.732410", "channel": 8, "event": "loss_cleared", "duration": 4.83}
+{"ts": "2026-03-31T20:06:52.916849+00:00", "channel": 8, "event": "loss_start"}
+{"ts": "2026-03-31T20:07:02.037933+00:00", "channel": 8, "event": "loss_cleared", "duration": 9.12}
